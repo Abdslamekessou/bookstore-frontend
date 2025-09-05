@@ -1,0 +1,202 @@
+[
+    {
+      "_id": 1,
+      "title": "The Power Of AI For Business Leaders",
+      "description": "Efficient Strategies to Optimize Operations, Increase Customer Experience, Mitigate Risks, And Drive Unparalleled Growth and Profitability",
+      "category": "business",
+      "trending": true,
+      "coverImage": "book-1.jpg",
+      "oldPrice": 29.99,
+      "newPrice": 19.99
+    },
+    {
+      "_id": 2,
+      "title": "Top 10 Fiction Books This Year",
+      "description": "A curated list of the best fiction books that are trending this year.",
+      "category": "books",
+      "trending": true,
+      "coverImage": "book-2.png",
+      "oldPrice": 24.99,
+      "newPrice": 14.99
+    },
+    {
+      "_id": 3,
+      "title": "Fanatical Prospecting",
+      "description": "The Ultimate Guide to Opening Sales Conversations and Filling the Pipeline ",
+      "category": "marketing",
+      "trending": true,
+      "coverImage": "book-3.jpg",
+      "oldPrice": 39.99,
+      "newPrice": 29.99
+    },
+    {
+      "_id": 4,
+      "title": "Marketing Made Simple",
+      "description": "This guide from New York Times bestselling author Donald Miller, is a must-have for any marketing professional or small business owner who wants grow their business",
+      "category": "business",
+      "trending": false,
+      "coverImage": "book-4.jpg",
+      "oldPrice": 49.99,
+      "newPrice": 39.99
+    },
+    {
+      "_id": 5,
+      "title": "Non-Fiction Reads You Must Try",
+      "description": "Our top picks for non-fiction books to add to your reading list.",
+      "category": "books",
+      "trending": true,
+      "coverImage": "book-5.png",
+      "oldPrice": 19.99,
+      "newPrice": 9.99
+    },
+    {
+      "_id": 6,
+      "title": "Ultimate Guide to Digital Marketing",
+      "description": "A complete guide to digital marketing strategies for 2024.",
+      "category": "marketing",
+      "trending": false,
+      "coverImage": "book-6.png",
+      "oldPrice": 44.99,
+      "newPrice": 34.99
+    },
+    {
+      "_id": 7,
+      "title": "The First Days",
+      "description": "Katie is driving to work one beautiful day when a dead man jumps into her car and tries to eat her.  That same morning, Jenni opens a bedroom door to find her husband devouring their toddler son. ",
+      "category": "horror",
+      "trending": true,
+      "coverImage": "book-7.png",
+      "oldPrice": 59.99,
+      "newPrice": 49.99
+    },
+    {
+      "_id": 8,
+      "title": "The Hunger Games",
+      "description": "Could you survive on your own in the wild, with every one out to make sure you don't live to see the morning?",
+      "category": "fiction",
+      "trending": true,
+      "coverImage": "book-8.png",
+      "oldPrice": 21.99,
+      "newPrice": 16.99
+    },
+    {
+      "_id": 9,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "description": "Harry Potter is about to start his fifth year at Hogwarts School of Witchcraft and Wizardry. Unlike most schoolboys, Harry never enjoys his summer holidays",
+      "category": "adventure",
+      "trending": false,
+      "coverImage": "book-9.png",
+      "oldPrice": 27.99,
+      "newPrice": 18.99
+    },
+    {
+      "_id": 10,
+      "title": "Abscond: A Short Story",
+      "description": "Fate challenges a boy to find his place in the world in a powerful short story from Abraham Verghese, the New York Times bestselling author of The Covenant of Water.",
+      "category": "fiction",
+      "trending": true,
+      "coverImage": "book-10.jpg",
+      "oldPrice": 14.99,
+      "newPrice": 10.99
+    },
+    {
+      "_id": 11,
+      "title": "To Kill a Mockingbird",
+      "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it. 'To Kill A Mockingbird' became both an instant bestseller",
+      "category": "fiction",
+      "trending": true,
+      "coverImage": "book-11.png",
+      "oldPrice": 32.99,
+      "newPrice": 25.99
+    },
+    {
+      "_id": 12,
+      "title": "The Fault in Our Stars",
+      "description": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. ",
+      "category": "business",
+      "trending": true,
+      "coverImage": "book-12.png",
+      "oldPrice": 19.99,
+      "newPrice": 9.99
+    },
+    {
+      "_id": 13,
+      "title": "The Picture of Dorian Gray",
+      "description": "Oscar Wilde’s only novel is the dreamlike story of a young man who sells his soul for eternal youth and beauty.",
+      "category": "horror",
+      "trending": true,
+      "coverImage": "book-13.png",
+      "oldPrice": 26.99,
+      "newPrice": 21.99
+    },
+    {
+      "_id": 14,
+      "title": "The Giving Tree",
+      "description": "'Once there was a tree...and she loved a little boy.'So begins a story of unforgettable perception, beautifully written and illustrated by the gifted and versatile Shel Silverstein.",
+      "category": "fiction",
+      "trending": false,
+      "coverImage": "book-14.png",
+      "oldPrice": 34.99,
+      "newPrice": 24.99
+    },
+    {
+      "_id": 15,
+      "title": "Gone with the Wind",
+      "description": "Scarlett O'Hara, the beautiful, spoiled daughter of a well-to-do Georgia plantation owner, must use every means at her disposal to claw her way out of the poverty she finds herself in after Sherman's March to the Sea.",
+      "category": "fiction",
+      "trending": false,
+      "coverImage": "book-15.png",
+      "oldPrice": 22.99,
+      "newPrice": 12.99
+    },
+    {
+      "_id": 16,
+      "title": "The Lightning Thief",
+      "description": "Percy Jackson is a good kid, but he can't seem to focus on his schoolwork or control his temper. And lately, being away at boarding school is only getting worse - Percy could have sworn his pre-algebra teacher turned into a monster and tried to kill him",
+      "category": "fiction",
+      "trending": false,
+      "coverImage": "book-16.png",
+      "oldPrice": 24.99,
+      "newPrice": 19.99
+    },
+    {
+      "_id": 17,
+      "title": "The First Gentleman: A Thriller",
+      "description": "Bill Clinton reveals key White House details in murderous new political thriller… It's a twisty thriller with plenty of inside jobs, political sabotage and many, many deaths.",
+      "category": "adventure",
+      "trending": true,
+      "coverImage": "book-17.jpg",
+      "oldPrice": 49.99,
+      "newPrice": 39.99
+    },
+    {
+      "_id": 18,
+      "title": "Divergent",
+      "description": "On an appointed day of every year, all sixteen-year-olds must select the faction to which they will devote the rest of their lives. For Beatrice, the decision is between staying with her family and being who she really is",
+      "category": "business",
+      "trending": true,
+      "coverImage": "book-18.png",
+      "oldPrice": 18.99,
+      "newPrice": 12.99
+    },
+    {
+      "_id": 19,
+      "title": "The Alchemist",
+      "description": "Paulo Coelho's masterpiece tells the mystical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure.",
+      "category": "adventure",
+      "trending": true,
+      "coverImage": "book-19.png",
+      "oldPrice": 35.99,
+      "newPrice": 27.99
+    },
+    {
+      "_id": 20,
+      "title": "Four Thousand Weeks",
+      "description": "Nobody needs to be told there isn’t enough time. We’re obsessed with our lengthening to-do lists, overfilled inboxes, work-life balance, and ceaseless battle against distraction; we’re deluged with advice on becoming more productive and efficient",
+      "category": "business",
+      "trending": false,
+      "coverImage": "book-20.png",
+      "oldPrice": 24.99,
+      "newPrice": 14.99
+    }
+  ]
